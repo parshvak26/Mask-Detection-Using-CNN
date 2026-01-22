@@ -4,6 +4,7 @@ Description:
 
 This repository contains the source code for a Convolutional Neural Network (CNN) model trained to perform MASK Detection on the Face mask detection dataset. The model has been trained to achieve high accuracy on the validation set, and its generalizability is evaluated on the test set.
 
+
 Key Features:
 Leverages the power of CNNs for image recognition and classification.
 Utilizes data augmentation techniques to improve model robustness.
